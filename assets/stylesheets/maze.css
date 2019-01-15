@@ -8,7 +8,7 @@ body {
   display: flex;
   justify-content: center;
   border-color: white 5px solid;
-  color: #1aff1a;
+  color: black;
 
   font-weight: bold;
 }
@@ -19,7 +19,7 @@ body {
   flex-direction: column;
   width: 33.3333333%;
   align-items: center;
-  color: #1aff1a;
+  color: black;
 }
 
 .right-content {
