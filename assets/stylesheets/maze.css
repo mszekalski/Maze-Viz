@@ -55,9 +55,9 @@ button:hover {
   display: flex;
   justify-content: center;
   flex-direction: column;
-  width: 33.3333333%;
   align-items: center;
   color: black;
+  width: fit-content;
 }
 
 .right-content {
